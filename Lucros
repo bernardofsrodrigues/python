@@ -1,4 +1,4 @@
 Investimento = 7200
 Ganhos = 12000
 Lucro = Ganhos - Investimento
-print("Lucro")
+print(Lucro)
