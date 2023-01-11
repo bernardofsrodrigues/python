@@ -6,5 +6,5 @@ print("o investimento foi de", Investimento, "e os ganhos foram de", Ganhos)
 print("logo, os lucros foram de", Lucro)
 if Lucro > 5000:
   print("e os vendedores ganharam bônus")
-elif Lucro < 5000
+elif Lucro < 5000:
   print("e os vendedores não ganharam bônus")
