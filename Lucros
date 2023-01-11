@@ -1,4 +1,5 @@
 Investimento = 7200
 Ganhos = 12000
 Lucro = Ganhos - Investimento
-print(Lucro)
+print("o investimento foi de", Investimento, "e os ganhos foram de", Ganhos)
+print("logo, os lucros foram de", Lucro)
